@@ -1,0 +1,27 @@
+﻿  PlaneRANSAC.cpp
+C:\Users\shahi\Desktop\SeqR_As.1_XPXSKK\RANSAC_basic\PlaneRANSAC.cpp(42,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shahi\Desktop\SeqR_As.1_XPXSKK\RANSAC_basic\PlaneRANSAC.cpp(49,20): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\shahi\Desktop\SeqR_As.1_XPXSKK\RANSAC_basic\PlaneRANSAC.cpp(50,20): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\shahi\Desktop\SeqR_As.1_XPXSKK\RANSAC_basic\PlaneRANSAC.cpp(51,20): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\shahi\Desktop\SeqR_As.1_XPXSKK\RANSAC_basic\PlaneRANSAC.cpp(60,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\shahi\Desktop\SeqR_As.1_XPXSKK\RANSAC_basic\PlaneRANSAC.cpp(74,72): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\shahi\Desktop\SeqR_As.1_XPXSKK\RANSAC_basic\PlaneRANSAC.cpp(81,85): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\shahi\Desktop\SeqR_As.1_XPXSKK\RANSAC_basic\PlaneRANSAC.cpp(100,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\shahi\Desktop\SeqR_As.1_XPXSKK\RANSAC_basic\PlaneRANSAC.cpp(115,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\shahi\Desktop\SeqR_As.1_XPXSKK\RANSAC_basic\PlaneRANSAC.cpp(122,93): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\shahi\Desktop\SeqR_As.1_XPXSKK\RANSAC_basic\PlaneRANSAC.cpp(141,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\shahi\Desktop\SeqR_As.1_XPXSKK\RANSAC_basic\PlaneRANSAC.cpp(156,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\shahi\Desktop\SeqR_As.1_XPXSKK\RANSAC_basic\PlaneRANSAC.cpp(163,93): warning C4305: 'argument': truncation from 'double' to 'float'
+  RANSAC_basic.vcxproj -> C:\Users\shahi\Desktop\SeqR_As.1_XPXSKK\x64\Debug\RANSAC_basic.exe
